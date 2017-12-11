@@ -1,9 +1,10 @@
-#LABORATORIA
+# LABORATORIA
 
 Explica qué partes conforman el UX y qué partes el UI.
 
 
-##Seccion 1 (pagina Laboratoria)
+### Seccion 1 (pagina Laboratoria)
+
 Se analiza las partes que conforma la primera seccion de la pagina de Laboratoria.
 
 ![Seccion 1](images/lab-1.jpg)
@@ -19,14 +20,17 @@ En esta imagen se analiza:
          - Formulario para postulacion.
          - Preguntas frecuentes.
 
-         ***
+    ***
          ![Seccion 1 postulante 1](images/lab-alum-1.jpg)
+
          En esta imagen se observa informacion importante para las nuevas postulantes. En ella se puede manejar como elementos **See** y/o **Think**, ya que de acuerdo a la sensacion y sentientos en ese momento de los usuarios, se podra leer la informacion que proporciona Laboratoria, con la finalidad de que la proxima postulante y/o usuario tome una mejor decisión.
-         ***
+    ***
          ![Seccion 1 postulante 2](images/lab-alum-2.jpg)
+
          En la imagen se puede observar que Laboratoria proporciona un Formulario para que el usuario puede realizar su postulacion. Aqui se le invita a proporcionar informacion, con la finalidad de tener un control en el proceso de seleccion.
-         ***
+      ***
          ![Seccion 1 postulante 3](images/lab-alum-3.jpg)
+
          En la imagen se muestra una serie de preguntas para que la proxima postulante y/o usuario pueda aclarar algunas dudas relacionado al proceso de seleccion y asi poder tomar una mejor decisión.
 
          > Nota: En cada imagen se muestra un bloque de color **Azul** este representa un Chat, esto con la finalidad de que el usuario puede ponerse en Contacto con Laboratoria.
@@ -34,11 +38,14 @@ En esta imagen se analiza:
 
 
        Si selecciona *Empresas* se ofrece dos Servicios como:
+
         ![Seccion 1 empresas 1](images/lab-emp-1.jpg)
+
          - LABORATORIA FOR BUSINESS.- Proporcina a las empresas Servicios y/o Cursos para el personal que elaboren dentro de ella, esto con la finalidad de desarrollar sus habilidades y en estar a la vanguardia de la tecnologia.
          - CONTRATA TALENTO.- La empresas podran encontra talento para formar parte de su equipo digital.
         ***
         ![Seccion 1 empresas 2](images/lab-emp-2.jpg)
+
         Aqui tanto las empresas como los usuarios pueden observar que Compañias y/o Empresas confian en Laboratoria.
 
 
@@ -54,7 +61,8 @@ Al observar la **Primera Imagen** podemos observar elemento de **UI** tales como
   - Una caja de texto.
   - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
-##Seccion 2 (pagina Laboratoria)
+### Seccion 2 (pagina Laboratoria)
+
 Se analiza las partes que conforma la segunda seccion de la pagina de Laboratoria.
 
 ![Seccion 2](images/lab-2.jpg)
@@ -72,7 +80,9 @@ En esta imagen se analiza:
       - Fondo Blanco en la seccion.
       - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
-##Seccion 3 (pagina Laboratoria)
+
+### Seccion 3 (pagina Laboratoria)
+
 Se analiza las partes que conforma la segunda seccion de la pagina de Laboratoria.
 
 ![Seccion 3](images/lab-3.jpg)
@@ -88,7 +98,8 @@ En esta imagen se analiza:
       - Una caja de texto (informacion de la egresada).
       - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
-##Seccion 4 (pagina Laboratoria)
+### Seccion 4 (pagina Laboratoria)
+
 Se analiza las partes que conforma la segunda seccion de la pagina de Laboratoria.
 
 ![Seccion 4](images/lab-4.jpg)
@@ -107,7 +118,7 @@ En esta imagen se analiza:
       - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
 
-##Seccion 5 (pagina Laboratoria)
+### Seccion 5 (pagina Laboratoria)
 Se analiza las partes que conforma la segunda seccion de la pagina de Laboratoria.
 
 ![Seccion 5](images/lab-5.jpg)
@@ -129,7 +140,8 @@ En esta imagen se analiza:
       - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
 
-##Seccion 6 (pagina Laboratoria)
+### Seccion 6 (pagina Laboratoria)
+
 Se analiza las partes que conforma la segunda seccion de la pagina de Laboratoria.
 
 ![Seccion 6](images/lab-6.jpg)
@@ -148,7 +160,8 @@ En esta imagen se analiza:
       - Fondo Blanco en el resto de seccion.
       - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
-##Seccion 7 (pagina Laboratoria)
+### Seccion 7 (pagina Laboratoria)
+
 Se analiza las partes que conforma la segunda seccion de la pagina de Laboratoria.
 
 ![Seccion 7](images/lab-7.jpg)
@@ -167,7 +180,8 @@ En esta imagen se analiza:
       - Fondo Blanco en el resto de seccion.
       - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
-##Seccion 8 (pagina Laboratoria)
+### Seccion 8 (pagina Laboratoria)
+
 Se analiza las partes que conforma la segunda seccion de la pagina de Laboratoria.
 
 ![Seccion 8](images/lab-8.jpg)
@@ -186,7 +200,8 @@ En esta imagen se analiza:
       - Un bloque con logos de empresas (presencia en medios).
       - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
-##Seccion 9 (pagina Laboratoria)
+### Seccion 9 (pagina Laboratoria)
+
 Se analiza las partes que conforma la segunda seccion de la pagina de Laboratoria.
 
 ![Seccion 9](images/lab-9.jpg)
@@ -214,7 +229,7 @@ En esta imagen se analiza:
 ***
 ***
 
-#GITHUB
+# GITHUB
 
 Identificar los elementos de navegación de la pagina de GitHub.
 
@@ -280,7 +295,9 @@ Se menciona algunas opciones como:
   - Negocios en GitHub.com
   - GitHub Enterprise
 6. Search.- se realiza busqueda de cualquier tipo de tema o informacion acerca de GitHub (el usuario ingrese).
+
 ![Seccion git Search](images/git-search.jpg)
+
 Cuando el usuario introduce unn texto a buscar GitHub muestra una lista de opciones relacionadas al tema, en ella se puede observar.
   - Repositorios
   - Code
@@ -299,10 +316,16 @@ De igual forma muestra una lista de los lenguajes de programacion como son:
   - C#
   - C
   - C++
+
 7. Inicio de sesión.- cuando un usuario ya realizo el regitro correspondiente para tener una cuenta (gratuita o de paga).
+
 ![Seccion git Sesion](images/git-sesion.jpg)
+
 En esta parte se debe ingresar Usuario y Contraseña. Una vez ingresando correctamente los datos, estara dentro de su sesion (perfil).
+
+***
 ![Seccion git Perfil](images/git-perfil.jpg)
+
 En esta seccion tendra una serie de opciones donde podra realizar las siguientes actividades y/o cambios:
   - Editar perfil
     - Profile
@@ -319,7 +342,9 @@ En esta seccion tendra una serie de opciones donde podra realizar las siguientes
     - Applications
   - Overview.- se muestra los repositorios en conjunto.
   - Repositories.- se muestra la lista de todos los repositorios creados por el usuario. Al ingresar algunos de nuestros repositorios la informacion se muestra como la siguiente imagen.
+
 ![Seccion git Repo](images/git-repo.jpg)
+
   - Clone or download.- descargar archivo ZIP del proyecto.
   - Fork.- cantidad de bifurcaciones (fork) del proyecto.
   - Inssues (Conflictos).
@@ -342,13 +367,15 @@ En esta seccion tendra una serie de opciones donde podra realizar las siguientes
 
 
 8. Registrarse.- cuando un usuario no tiene cuenta en GitHub, debera ingresar ciertos datos para crear una cuenta (gratuita o de paga).
+
 ![Seccion git Registro](images/git-registrarse.jpg)
+
 Si el usuario no cuenta con una cuenta debera registrarse. Se le solicitara la siguiente informacion:
 - UserName
 - Email
 - Password
 
-##Seccion 2
+### Seccion 2
 Se presenta la colaboracion en un proyecto, administracion de proyecto y herramientas.
 
 ![Seccion 2 GITHUB](images/git-2.jpg)
@@ -397,7 +424,7 @@ Se manejan tres opciones las cuales son:
     - GitHub Enterprise
 
 
-##Seccion 3
+### Seccion 3
 Se presenta la colaboracion en un proyecto, administracion de proyecto y herramientas.
 
 ![Seccion 3 GITHUB](images/git-3.jpg)
@@ -454,7 +481,7 @@ Se manejar dos opciones las cuales son:
     - Gofre
     - ZenHub
 
-##Seccion 4
+### Seccion 4
 Se presenta informacion a desarrolladores, empresas y comunidad de codigo abierto.
 
 ![Seccion 4 GITHUB](images/git-4.jpg)
@@ -471,7 +498,7 @@ Se manejar tres opciones las cuales son:
   - Registro
   - Prueba gratis del producto
 
-##Seccion 5
+### Seccion 5
 En el pie de pagina o barra institucional, se muestra informacion a desarrolladores, empresas asi mismo hace mencion de la caracteristicas, recursos y plataforma de GitHub.
 
 ![Seccion 5 GITHUB](images/git-5.jpg)
