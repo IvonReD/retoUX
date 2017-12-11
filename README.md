@@ -19,16 +19,21 @@ En esta imagen se analiza:
          - Calendario.
          - Formulario para postulacion.
          - Preguntas frecuentes.
+         ***
 
-    ***
+
          ![Seccion 1 postulante 1](images/lab-alum-1.jpg)
 
          En esta imagen se observa informacion importante para las nuevas postulantes. En ella se puede manejar como elementos **See** y/o **Think**, ya que de acuerdo a la sensacion y sentientos en ese momento de los usuarios, se podra leer la informacion que proporciona Laboratoria, con la finalidad de que la proxima postulante y/o usuario tome una mejor decisión.
-    ***
+
+         ***
+
          ![Seccion 1 postulante 2](images/lab-alum-2.jpg)
 
          En la imagen se puede observar que Laboratoria proporciona un Formulario para que el usuario puede realizar su postulacion. Aqui se le invita a proporcionar informacion, con la finalidad de tener un control en el proceso de seleccion.
-      ***
+
+         ***
+
          ![Seccion 1 postulante 3](images/lab-alum-3.jpg)
 
          En la imagen se muestra una serie de preguntas para que la proxima postulante y/o usuario pueda aclarar algunas dudas relacionado al proceso de seleccion y asi poder tomar una mejor decisión.
@@ -43,7 +48,8 @@ En esta imagen se analiza:
 
          - LABORATORIA FOR BUSINESS.- Proporcina a las empresas Servicios y/o Cursos para el personal que elaboren dentro de ella, esto con la finalidad de desarrollar sus habilidades y en estar a la vanguardia de la tecnologia.
          - CONTRATA TALENTO.- La empresas podran encontra talento para formar parte de su equipo digital.
-        ***
+
+
         ![Seccion 1 empresas 2](images/lab-emp-2.jpg)
 
         Aqui tanto las empresas como los usuarios pueden observar que Compañias y/o Empresas confian en Laboratoria.
