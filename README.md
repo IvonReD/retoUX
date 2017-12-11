@@ -49,6 +49,8 @@ En esta imagen se analiza:
          - LABORATORIA FOR BUSINESS.- Proporcina a las empresas Servicios y/o Cursos para el personal que elaboren dentro de ella, esto con la finalidad de desarrollar sus habilidades y en estar a la vanguardia de la tecnologia.
          - CONTRATA TALENTO.- La empresas podran encontra talento para formar parte de su equipo digital.
 
+         ***
+
 
         ![Seccion 1 empresas 2](images/lab-emp-2.jpg)
 
@@ -75,16 +77,16 @@ Se analiza las partes que conforma la segunda seccion de la pagina de Laboratori
 
 En esta imagen se analiza:
 - Elementos UX:
-    1. El numero **1** representan elemento *Think*, transmite la sensacion de iniciar y adentrarse en el mundo de la tecnologia y programación. Tambien se da una breve informacion del Bootcamp proporcionando numeros reales de lo que Laboratoria realizo en estas generaciones de preparacion.
-    2. El numero **2** representan elemento *Care*, el usuario podra comenzar su postulacion al dar click en el boton.
-    3. El numero **3** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
+  1. El numero **1** representan elemento *Think*, transmite la sensacion de iniciar y adentrarse en el mundo de la tecnologia y programación. Tambien se da una breve informacion del Bootcamp proporcionando numeros reales de lo que Laboratoria realizo en estas generaciones de preparacion.
+  2. El numero **2** representan elemento *Care*, el usuario podra comenzar su postulacion al dar click en el boton.
+  3. El numero **3** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
 
 - Elementos UI:
-      - Una etiqueta `h2 o h3`(subtitulo).
-      - Una caja de texto (Informacion de Bootcamp).
-      - Un `button` (comienza tu postulación).
-      - Fondo Blanco en la seccion.
-      - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Una etiqueta `h2 o h3`(subtitulo).
+  - Una caja de texto (Informacion de Bootcamp).
+  - Un `button` (comienza tu postulación).
+  - Fondo Blanco en la seccion.
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
 
 ### Seccion 3 (pagina Laboratoria)
@@ -95,14 +97,14 @@ Se analiza las partes que conforma la segunda seccion de la pagina de Laboratori
 
 En esta imagen se analiza:
 - Elementos UX:
-    1. El numero **1** representan elemento *See*, este elemento transmiten al usuario, felicidad, satisfaccion, superacion de una egresada de Laboratoria, invitando a ser parte del Bootcamp para un gran cambio en su vida.
-    2. El numero **1** representan elemento *Think*, la egresada expresa con palabras el cambio en su vida, donde comparte los logros obtenidos.
-    3. El numero **3** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
+  1. El numero **1** representan elemento *See*, este elemento transmiten al usuario, felicidad, satisfaccion, superacion de una egresada de Laboratoria, invitando a ser parte del Bootcamp para un gran cambio en su vida.
+  2. El numero **1** representan elemento *Think*, la egresada expresa con palabras el cambio en su vida, donde comparte los logros obtenidos.
+  3. El numero **3** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
 
 - Elementos UI:
-      - Una imagen de seccion (foto de egresada).
-      - Una caja de texto (informacion de la egresada).
-      - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Una imagen de seccion (foto de egresada).
+  - Una caja de texto (informacion de la egresada).
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
 ### Seccion 4 (pagina Laboratoria)
 
@@ -112,38 +114,39 @@ Se analiza las partes que conforma la segunda seccion de la pagina de Laboratori
 
 En esta imagen se analiza:
 - Elementos UX:
-    1. El numero **1** representan elemento *Think*, invita a las empresas en enfocarse al talento de las egresadas de Laboratoria. Explicando parte del curso como, duracion, formacion, habilidades y tasa de satisfaccion de los empleadores.
-    2. El numero **2** representan elemento *Care*, la empresa y/o usuario al momento de dar un click podra ver y/o conocer el talento que Laboratoria preparo a lo largo del curso. Presentando estadisticas, graduadas, perfiles y porcentaje de contratacion.
-    3. El numero **3** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
+  1. El numero **1** representan elemento *Think*, invita a las empresas en enfocarse al talento de las egresadas de Laboratoria. Explicando parte del curso como, duracion, formacion, habilidades y tasa de satisfaccion de los empleadores.
+  2. El numero **2** representan elemento *Care*, la empresa y/o usuario al momento de dar un click podra ver y/o conocer el talento que Laboratoria preparo a lo largo del curso. Presentando estadisticas, graduadas, perfiles y porcentaje de contratacion.
+  3. El numero **3** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
 
 - Elementos UI:
-      - Una etiqueta `h2 o h3`(subtitulo).
-      - Una caja de texto (Informacion de Bootcamp).
-      - Un `button` (conoce nuestro talento).
-      - Fondo Blanco en la seccion.
-      - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Una etiqueta `h2 o h3`(subtitulo).
+  - Una caja de texto (Informacion de Bootcamp).
+  - Un `button` (conoce nuestro talento).
+  - Fondo Blanco en la seccion.
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
 
 ### Seccion 5 (pagina Laboratoria)
+
 Se analiza las partes que conforma la segunda seccion de la pagina de Laboratoria.
 
 ![Seccion 5](images/lab-5.jpg)
 
 En esta imagen se analiza:
 - Elementos UX:
-    1. El numero **1** representan elemento *See*, este elemento transmiten al usuario, la satisfaccion de un jefe contento por la contratacion de egresadas de Laboratoria.
-    2. Los numeros **2** representan elementos *Think*, el primero en palabras de un CEO expresa su sentir de contratar a egresadas de Laboratoria. El segundo ofrece a las empresas cursos para desarrollo de habilidades del equipo que la integran, ofreciendo un crecimiento y transformacion en la era digital.
-    3. El numero **3** representan elemento *Care*, la empresa y/o usuario al momento de dar un click podra ver los cursos que se ofrecen e imparten.
-    4. El numero **4** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
+  1. El numero **1** representan elemento *See*, este elemento transmiten al usuario, la satisfaccion de un jefe contento por la contratacion de egresadas de Laboratoria.
+  2. Los numeros **2** representan elementos *Think*, el primero en palabras de un CEO expresa su sentir de contratar a egresadas de Laboratoria. El segundo ofrece a las empresas cursos para desarrollo de habilidades del equipo que la integran, ofreciendo un crecimiento y transformacion en la era digital.
+  3. El numero **3** representan elemento *Care*, la empresa y/o usuario al momento de dar un click podra ver los cursos que se ofrecen e imparten.
+  4. El numero **4** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
 
 - Elementos UI:
-      - Una imagen de CEO.
-      - Una caja de texto (Informacion de CEO).
-      - Una etiqueta `h2 o h3`(subtitulo).
-      - Una caja de texto (Informacion de cursos y porcentaje de empresas que lo han solicitado).
-      - Un `button` (conoce nuestros cursos).
-      - Fondo Blanco en la seccion.
-      - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Una imagen de CEO.
+  - Una caja de texto (Informacion de CEO).
+  - Una etiqueta `h2 o h3`(subtitulo).
+  - Una caja de texto (Informacion de cursos y porcentaje de empresas que lo han solicitado).
+  - Un `button` (conoce nuestros cursos).
+  - Fondo Blanco en la seccion.
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
 
 ### Seccion 6 (pagina Laboratoria)
@@ -154,17 +157,17 @@ Se analiza las partes que conforma la segunda seccion de la pagina de Laboratori
 
 En esta imagen se analiza:
 - Elementos UX:
-    1. Los numeros **1** representan elemento *See*, este elemento transmiten al usuario, la satisfaccion de un jefe satisfecho con su equipo de trabajo el segundo muestras cifras y porcentajes de graduadas, colocacion laboral.
-    2. Los numeros **2** representan elementos *Think*, el primero en palabras de un gerente donde expresa el sentimiento sobre su equipo de trabajo. El segundo menciona el impacto que ha tenido Laboratoria en cifras.
-    3. El numero **3** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
+  1. Los numeros **1** representan elemento *See*, este elemento transmiten al usuario, la satisfaccion de un jefe satisfecho con su equipo de trabajo el segundo muestras cifras y porcentajes de graduadas, colocacion laboral.
+  2. Los numeros **2** representan elementos *Think*, el primero en palabras de un gerente donde expresa el sentimiento sobre su equipo de trabajo. El segundo menciona el impacto que ha tenido Laboratoria en cifras.
+  3. El numero **3** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
 
 - Elementos UI:
-      - Una imagen de gerente(parte de la seccion).
-      - Una caja de texto (Informacion de gerente).
-      - Una etiqueta `h2 o h3`(subtitulo).
-      - Cuatro cajas de texto (se representa en cifras el impacto de Laboratoria).
-      - Fondo Blanco en el resto de seccion.
-      - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Una imagen de gerente(parte de la seccion).
+  - Una caja de texto (Informacion de gerente).
+  - Una etiqueta `h2 o h3`(subtitulo).
+  - Cuatro cajas de texto (se representa en cifras el impacto de Laboratoria).
+  - Fondo Blanco en el resto de seccion.
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
 ### Seccion 7 (pagina Laboratoria)
 
@@ -174,17 +177,17 @@ Se analiza las partes que conforma la segunda seccion de la pagina de Laboratori
 
 En esta imagen se analiza:
 - Elementos UX:
-    1. Los numeros **1** representan elemento *See*, a grandes lideres del mundo (politica, social y tecnologia), en ella se expresa la satisfaccion, agrado y reconocimiento que se tiene al programa de Laboratoria. El segundo Bloque representa los logos de grandes Empresas aliados con Laboratoria.
-    2. Los numeros **2** representan elementos *Think*, el primero en palabras del expresidente de USA **BARACK OBAMA** expresa la importancia de Laboratoria y la tasa de exito que esta impacta en el mundo. El segundo menciona las empresas aliadas.
-    3. El numero **3** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
+  1. Los numeros **1** representan elemento *See*, a grandes lideres del mundo (politica, social y tecnologia), en ella se expresa la satisfaccion, agrado y reconocimiento que se tiene al programa de Laboratoria. El segundo Bloque representa los logos de grandes Empresas aliados con Laboratoria.
+  2. Los numeros **2** representan elementos *Think*, el primero en palabras del expresidente de USA **BARACK OBAMA** expresa la importancia de Laboratoria y la tasa de exito que esta impacta en el mundo. El segundo menciona las empresas aliadas.
+  3. El numero **3** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
 
 - Elementos UI:
-      - Una imagen de grandes lideres del mundo(parte de la seccion).
-      - Una caja de texto (Informacion del Expresidente de USA).
-      - Una etiqueta `h2 o h3`(subtitulo).
-      - Un bloque con 6 logos de empresas aliadas.
-      - Fondo Blanco en el resto de seccion.
-      - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Una imagen de grandes lideres del mundo(parte de la seccion).
+  - Una caja de texto (Informacion del Expresidente de USA).
+  - Una etiqueta `h2 o h3`(subtitulo).
+  - Un bloque con 6 logos de empresas aliadas.
+  - Fondo Blanco en el resto de seccion.
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
 ### Seccion 8 (pagina Laboratoria)
 
@@ -194,17 +197,17 @@ Se analiza las partes que conforma la segunda seccion de la pagina de Laboratori
 
 En esta imagen se analiza:
 - Elementos UX:
-    1. Los numeros **1** representan elemento *See*, Se muestran dos bloques que contienen los logos de empresas, la primera de reconocimientos y la segunda de presencia en los medios.
-    2. Los numeros **2** representan elementos *Think*, se ofrece subtitulos que pueden ser de gran importancia para el usuario y/o empresa.
-    3. El numero **3** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
+  1. Los numeros **1** representan elemento *See*, Se muestran dos bloques que contienen los logos de empresas, la primera de reconocimientos y la segunda de presencia en los medios.
+  2. Los numeros **2** representan elementos *Think*, se ofrece subtitulos que pueden ser de gran importancia para el usuario y/o empresa.
+  3. El numero **3** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
 
 - Elementos UI:
-      - Fondo Balnco en la seccion
-      - Una etiqueta `h2 o h3`(subtitulo).
-      - Un bloque con logos de empresas (reconocimiento).
-      - Una etiqueta `h2 o h3`(subtitulo).
-      - Un bloque con logos de empresas (presencia en medios).
-      - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Fondo Balnco en la seccion
+  - Una etiqueta `h2 o h3`(subtitulo).
+  - Un bloque con logos de empresas (reconocimiento).
+  - Una etiqueta `h2 o h3`(subtitulo).
+  - Un bloque con logos de empresas (presencia en medios).
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
 
 ### Seccion 9 (pagina Laboratoria)
 
@@ -214,23 +217,23 @@ Se analiza las partes que conforma la segunda seccion de la pagina de Laboratori
 
 En esta imagen se analiza:
 - Elementos UX:
-    1. Los numeros **1** representan elemento *See*, el primer bloque muesta una tabla con tres articulos relacionados con Laboratoria, dos de ellos en ingles y uno en español.
-    2. El numero **2** representan elemento *Care*, el usuario podra al dar click al primer elemento, este lo redireccionara al blog de Laboratoria, el segundo muestra un listado con 3 opciones: contactanos, trabaja con nosotros y blog.
-    3. El numero **3** representan elemento *Think*, aqui se expresa el sentir de lo que es Laboratoria a nivel America Latina.
-    4. El numero **4** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
+  1. Los numeros **1** representan elemento *See*, el primer bloque muesta una tabla con tres articulos relacionados con Laboratoria, dos de ellos en ingles y uno en español.
+  2. El numero **2** representan elemento *Care*, el usuario podra al dar click al primer elemento, este lo redireccionara al blog de Laboratoria, el segundo muestra un listado con 3 opciones: contactanos, trabaja con nosotros y blog.
+  3. El numero **3** representan elemento *Think*, aqui se expresa el sentir de lo que es Laboratoria a nivel America Latina.
+  4. El numero **4** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
 
 - Elementos UI:
-      - Fondo Balnco en la seccion
-      - Una etiqueta `h2 o h3`(subtitulo).
-      - Icono de Blog.
-      - Una seccion con tres columnas donde se muestre tres articulos, cada una de ellas una etiqueta de titulo, una iamgen una caja de texto, y una etiqueta "a".
-      - Un etiqueta "p" dentro una etiqueta "a".
-      - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
-      - Un footer (pie de pagina o barra institucional)
-        - Fondo negro.
-        - Un subtitulo.
-        - Una caja de texto.
-        - Una lista con 3 opciones.
+  - Fondo Balnco en la seccion
+  - Una etiqueta `h2 o h3`(subtitulo).
+  - Icono de Blog.
+  - Una seccion con tres columnas donde se muestre tres articulos, cada una de ellas una etiqueta de titulo, una iamgen una caja de texto, y una etiqueta "a".
+  - Un etiqueta "p" dentro una etiqueta "a".
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Un footer (pie de pagina o barra institucional)
+    - Fondo negro.
+    - Un subtitulo.
+    - Una caja de texto.
+    - Una lista con 3 opciones.
 
 ***
 ***
