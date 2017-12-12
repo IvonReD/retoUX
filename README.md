@@ -549,7 +549,7 @@ El dashboard es una herramienta utilizada por profesores, training managers, dir
 
 En esta imagen de muestra la primera pantalla para entrar al portal.
 
-![Pagina Inical sketch](pantalla-inicial.png)
+![Pagina Inical sketch](inicial.jpg)
 
 En esta pagina el usuario tendra que iniciar Sesion.
 
@@ -558,7 +558,7 @@ En esta pagina el usuario tendra que iniciar Sesion.
 
 Una vez que el usuario presiono click en el boton ***Sing In***, aparecera la ventana de **Iniciar Sesion**.
 
-![Login sketch](login.png)
+![Login sketch](login.jpg)
 
 En ella debera ingresar:
 - Nombre de usuario.
@@ -571,7 +571,7 @@ En ella debera ingresar:
 
 El usuario una vez ingresando sus datos para iniciar sesion, podra acceder a la pantalla Principal del Portal.
 
-![Pantalla Principal sketch](pantalla-principal.png)
+![Pantalla Principal sketch](principal.jpg)
 
 Como se muestra en la imagen, esta proporciona al usuario un ambiente amigable y de facil uso, en ella podra realizar:
 1. Editar perfil.
@@ -581,7 +581,7 @@ Como se muestra en la imagen, esta proporciona al usuario un ambiente amigable y
   - Alumnas.- Podra realizar la busqueda por nombre, generacion, pais y/o evaluación.
   - Desercion.- Podra realizar la busqueda por nombre y/o generacion.
 
-  ![Home sketch](pantalla-principal.png)
+  ![Home sketch](home.jpg)
 
 
 ***
@@ -592,7 +592,7 @@ Como se muestra en la imagen, esta proporciona al usuario un ambiente amigable y
   - HSE.
   - Tecnicos.
 
-  ![Evaluacion sketch](evaluacion.png)
+  ![Evaluacion sketch](evaluacion.jpg)
 
 De igual manera el usuario tiene la opcion de realizar una estadistica (graficas) de su busqueda, puede ser de una o varias alumnas y/o egresadas.
 
@@ -601,4 +601,4 @@ De igual manera el usuario tiene la opcion de realizar una estadistica (graficas
 
 4. Estadisticas.- En esta opcion se le brinda al usuario las los porcentajes totales y/o parciales de las alumnas, egresadas y empleadas por empresas, asi mismo podra realizar graficas o estadistica de los ultimos años, meses o semanas.
 
-![Estadisticas sketch](estadistica.png)
+![Estadisticas sketch](estadistica.jpg)
