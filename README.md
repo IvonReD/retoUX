@@ -13,32 +13,38 @@ En esta imagen se analiza:
 - Elementos UX:
     1. Los numeros **1** representan elementos *Care*.-
        El usuario al dar click en los botones, proporciona informacion adicional, si selecciona *Estudiante* se le dara informacion como:
-         - Pasos para postular.
-         - Requisitos.
-         - Informacion del Programa.
-         - Calendario.
-         - Formulario para postulacion.
-         - Preguntas frecuentes.
+         - Pasos para postular(esta debe ser simple y precisa).
+         - Requisitos (informacion de edad minima o maxima, conocimentos previos, etc).
+         - Informacion del Programa (duración, costo, etc).
+         - Calendario (se menciona proximas convocatorias).
+         - Formulario para postulacion (se solicita datos del usuario para comenzar su postulacion).
+         - Preguntas frecuentes (se proporcina informacion de posibles dudas que el usuario pueda tener).
          ***
 
 
          ![Seccion 1 postulante 1](images/lab-alum-1.jpg)
 
-         En esta imagen se observa informacion importante para las nuevas postulantes. En ella se puede manejar como elementos **See** y/o **Think**, ya que de acuerdo a la sensacion y sentientos en ese momento de los usuarios, se podra leer la informacion que proporciona Laboratoria, con la finalidad de que la proxima postulante y/o usuario tome una mejor decisión.
+         En esta imagen se observa informacion importante para las nuevas postulantes. En ella se puede manejar como elementos **See** y/o **Think**, ya que de acuerdo a la sensacion y sentientos en ese momento de los usuarios, podra leer la informacion que proporciona Laboratoria, con la finalidad de que la proxima postulante y/o usuario tome una mejor decisión que pueda cambiar su vida.
+
+         - Elementos UI:
+           - Un `logo`(Laboratoria).
+           - 2 `h3` subtitulo (color *#1c1c1b*), en el primer subtitulo agregar una lista *desordenada*. El segundo parrafos de informacion, incluyendo una lista *ordenada*.
+           - Fondo de la seccion **blanco**.
+           - El icono de chat del lado inferior izquierdo(color:*#f5f35d*).
 
          ***
 
          ![Seccion 1 postulante 2](images/lab-alum-2.jpg)
 
-         En la imagen se puede observar que Laboratoria proporciona un Formulario para que el usuario puede realizar su postulacion. Aqui se le invita a proporcionar informacion, con la finalidad de tener un control en el proceso de seleccion.
+         En la imagen se puede observar que Laboratoria proporciona un Formulario para que el usuario puede realizar su postulacion. Aqui se le invita a proporcionar datos (nombre, apellido, email, telefono, nivel de estudios, etc), con la finalidad de tener un control del proceso de seleccion.
 
          ***
 
          ![Seccion 1 postulante 3](images/lab-alum-3.jpg)
 
-         En la imagen se muestra una serie de preguntas para que la proxima postulante y/o usuario pueda aclarar algunas dudas relacionado al proceso de seleccion y asi poder tomar una mejor decisión.
+         En la imagen se muestra una serie de preguntas para que la proxima postulante y/o usuario pueda aclarar algunas dudas, relacionado al proceso de seleccion y  poder tomar una mejor decisión.
 
-         > Nota: En cada imagen se muestra un bloque de color **Azul** este representa un Chat, esto con la finalidad de que el usuario puede ponerse en Contacto con Laboratoria.
+         > Nota: En cada imagen se muestra un bloque de color **Azul** este representa un Chat (elemento fijo dentro del browser), esto con la finalidad de que el usuario puede ponerse en Contacto con Laboratoria.
 
 
 
@@ -48,6 +54,7 @@ En esta imagen se analiza:
 
          - LABORATORIA FOR BUSINESS.- Proporcina a las empresas Servicios y/o Cursos para el personal que elaboren dentro de ella, esto con la finalidad de desarrollar sus habilidades y en estar a la vanguardia de la tecnologia.
          - CONTRATA TALENTO.- La empresas podran encontra talento para formar parte de su equipo digital.
+
 
          ***
 
@@ -62,12 +69,12 @@ En esta imagen se analiza:
     4. El numero **4** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
 
 - Elementos UI:
-Al observar la **Primera Imagen** podemos observar elemento de **UI** tales como:
+Al analizar la **Primera Imagen del Documento** podemos observar elemento de **UI** tales como:
   - Una etiqueta `h1`(titulo).
-  - 2 `button` (estudiantes y empresas).
+  - 2 `button` (estudiantes y empresas) ambos de color *#c4c810* con letras *blancas*.
   - Una imagen de seccion.
-  - Una caja de texto.
-  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Una caja de texto (contener un subtitulo `h3` y debe estar enfrente de la imagen).
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición) debe incluir *3 iconos "Facebook, Twitter y correo electronico"*.
 
 ### Seccion 2 (pagina Laboratoria)
 
@@ -84,9 +91,9 @@ En esta imagen se analiza:
 - Elementos UI:
   - Una etiqueta `h2 o h3`(subtitulo).
   - Una caja de texto (Informacion de Bootcamp).
-  - Un `button` (comienza tu postulación).
-  - Fondo Blanco en la seccion.
-  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Un `button` (comienza tu postulación), color *#c4c810* con letras *blancas*.
+  - Fondo *Blanco* en la seccion.
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición) debe incluir *3 iconos "Facebook, Twitter y correo electronico"*.
 
 
 ### Seccion 3 (pagina Laboratoria)
@@ -104,7 +111,7 @@ En esta imagen se analiza:
 - Elementos UI:
   - Una imagen de seccion (foto de egresada).
   - Una caja de texto (informacion de la egresada).
-  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición) debe incluir *3 iconos "Facebook, Twitter y correo electronico"*.
 
 ### Seccion 4 (pagina Laboratoria)
 
@@ -121,9 +128,9 @@ En esta imagen se analiza:
 - Elementos UI:
   - Una etiqueta `h2 o h3`(subtitulo).
   - Una caja de texto (Informacion de Bootcamp).
-  - Un `button` (conoce nuestro talento).
-  - Fondo Blanco en la seccion.
-  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Un `button` (conoce nuestro talento), color *#c4c810* con letras *blancas*.
+  - Fondo *Blanco* en la seccion.
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición) debe incluir *3 iconos "Facebook, Twitter y correo electronico"*.
 
 
 ### Seccion 5 (pagina Laboratoria)
@@ -144,9 +151,9 @@ En esta imagen se analiza:
   - Una caja de texto (Informacion de CEO).
   - Una etiqueta `h2 o h3`(subtitulo).
   - Una caja de texto (Informacion de cursos y porcentaje de empresas que lo han solicitado).
-  - Un `button` (conoce nuestros cursos).
-  - Fondo Blanco en la seccion.
-  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Un `button` (conoce nuestros cursos), color *#c4c810* con letras *blancas*.
+  - Fondo *Blanco* en la seccion.
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición) debe incluir *3 iconos "Facebook, Twitter y correo electronico"*.
 
 
 ### Seccion 6 (pagina Laboratoria)
@@ -167,7 +174,8 @@ En esta imagen se analiza:
   - Una etiqueta `h2 o h3`(subtitulo).
   - Cuatro cajas de texto (se representa en cifras el impacto de Laboratoria).
   - Fondo Blanco en el resto de seccion.
-  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición) debe incluir *3 iconos "Facebook, Twitter y correo electronico"*.
+
 
 ### Seccion 7 (pagina Laboratoria)
 
@@ -185,9 +193,9 @@ En esta imagen se analiza:
   - Una imagen de grandes lideres del mundo(parte de la seccion).
   - Una caja de texto (Informacion del Expresidente de USA).
   - Una etiqueta `h2 o h3`(subtitulo).
-  - Un bloque con 6 logos de empresas aliadas.
+  - Un bloque con 6 `logos` de empresas aliadas.
   - Fondo Blanco en el resto de seccion.
-  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición) debe incluir *3 iconos "Facebook, Twitter y correo electronico"*.
 
 ### Seccion 8 (pagina Laboratoria)
 
@@ -207,7 +215,7 @@ En esta imagen se analiza:
   - Un bloque con logos de empresas (reconocimiento).
   - Una etiqueta `h2 o h3`(subtitulo).
   - Un bloque con logos de empresas (presencia en medios).
-  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición) debe incluir *3 iconos "Facebook, Twitter y correo electronico"*.
 
 ### Seccion 9 (pagina Laboratoria)
 
@@ -223,20 +231,23 @@ En esta imagen se analiza:
   4. El numero **4** representan elemento *Do*, esta barra puede ayuda a los usuarios a comunicarse o ponerse en contacto a través de redes sociales como: Facebook, Twitter y/o correo electronico.
 
 - Elementos UI:
-  - Fondo Balnco en la seccion
+  - Fondo Balnco en la seccion.
   - Una etiqueta `h2 o h3`(subtitulo).
   - Icono de Blog.
-  - Una seccion con tres columnas donde se muestre tres articulos, cada una de ellas una etiqueta de titulo, una iamgen una caja de texto, y una etiqueta "a".
-  - Un etiqueta "p" dentro una etiqueta "a".
-  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición).
+  - Una seccion con tres columnas donde se muestre tres articulos, cada una de ellos incluye una etiqueta de titulo `h6`, una iamgen una caja de texto, y una etiqueta `a`.
+  - Un etiqueta `p` dentro una etiqueta `a`.
+  - Una Barra Lateral (esta barra es fija, cuando el usuario realiza un scroll se mantiene en su posición) debe incluir *3 iconos "Facebook, Twitter y correo electronico"*.
   - Un footer (pie de pagina o barra institucional)
     - Fondo negro.
-    - Un subtitulo.
+    - Logo de Laboratoria (lado inferior izquierdo).
     - Una caja de texto.
     - Una lista con 3 opciones.
 
+
+
 ***
 ***
+
 
 # GITHUB
 
@@ -384,7 +395,7 @@ Si el usuario no cuenta con una cuenta debera registrarse. Se le solicitara la s
 - Email
 - Password
 
-### Seccion 2
+### Seccion 2 (pagina GitHub)
 Se presenta la colaboracion en un proyecto, administracion de proyecto y herramientas.
 
 ![Seccion 2 GITHUB](images/git-2.jpg)
@@ -433,7 +444,7 @@ Se manejan tres opciones las cuales son:
     - GitHub Enterprise
 
 
-### Seccion 3
+### Seccion 3 (pagina GitHub)
 Se presenta la colaboracion en un proyecto, administracion de proyecto y herramientas.
 
 ![Seccion 3 GITHUB](images/git-3.jpg)
@@ -490,7 +501,7 @@ Se manejar dos opciones las cuales son:
     - Gofre
     - ZenHub
 
-### Seccion 4
+### Seccion 4 (GitHub)
 Se presenta informacion a desarrolladores, empresas y comunidad de codigo abierto.
 
 ![Seccion 4 GITHUB](images/git-4.jpg)
@@ -507,9 +518,87 @@ Se manejar tres opciones las cuales son:
   - Registro
   - Prueba gratis del producto
 
-### Seccion 5
+### Seccion 5 (pagina GitHub)
 En el pie de pagina o barra institucional, se muestra informacion a desarrolladores, empresas asi mismo hace mencion de la caracteristicas, recursos y plataforma de GitHub.
 
 ![Seccion 5 GITHUB](images/git-5.jpg)
 
 >Nota: Las opciones y/o informacion que se muestra en la imagen, se mancionan en las secciones 1, 2, 3 y 4 de GitHub de este documento.
+
+
+
+***
+***
+
+
+# SKETCH DEL DASHBOARD LABORATORIA
+
+Crea un sketch para la herramienta del dashboard de Laboratoria.
+
+El dashboard es una herramienta utilizada por profesores, training managers, directores y gerentes de Laboratoria para ver rápidamente qué está pasando en el salón de clases de Laboratoria. En el dashboard, los usuarios mencionados pueden ver rápidamente estadísticas y datos en tiempo real como:
+
+- # de alumnas inscritas
+- # de alumnas que desertaron
+- # y % de alumnas que pasan el criterio mínimo de evaluación
+- Promedio de notas por sprint
+- Promedio de notas HSE
+- Promedio de notas técnicas
+
+
+### Pagina Inicial
+
+En esta imagen de muestra la primera pantalla para entrar al portal.
+
+![Pagina Inical sketch](pantalla-inicial.png)
+
+En esta pagina el usuario tendra que iniciar Sesion.
+
+
+### Login
+
+Una vez que el usuario presiono click en el boton ***Sing In***, aparecera la ventana de **Iniciar Sesion**.
+
+![Login sketch](login.png)
+
+En ella debera ingresar:
+- Nombre de usuario.
+- Contraseña.
+> Nota: si el usuario no recuerda alguno de estos Dos datos podra recuperar su contraseña, dando click en la opcion de Olvidaste tus UserName o Password.
+
+
+
+### Pantalla Principal (Portal)
+
+El usuario una vez ingresando sus datos para iniciar sesion, podra acceder a la pantalla Principal del Portal.
+
+![Pantalla Principal sketch](pantalla-principal.png)
+
+Como se muestra en la imagen, esta proporciona al usuario un ambiente amigable y de facil uso, en ella podra realizar:
+1. Editar perfil.
+2.  Realizar busqueda por:
+  - Generacion.- Podra realizar una busqueda seleccionando la generecion y/o pais.
+  - Egresada.- Podra realizar la busqueda por nombre, generacion y/o pais.
+  - Alumnas.- Podra realizar la busqueda por nombre, generacion, pais y/o evaluación.
+  - Desercion.- Podra realizar la busqueda por nombre y/o generacion.
+
+  ![Home sketch](pantalla-principal.png)
+
+
+***
+
+
+3. Evaluacion.- En esta opcion el usuario podra verificar los promedios de la alumanas y/o egresadas por medio de:
+  - Sprint.
+  - HSE.
+  - Tecnicos.
+
+  ![Evaluacion sketch](evaluacion.png)
+
+De igual manera el usuario tiene la opcion de realizar una estadistica (graficas) de su busqueda, puede ser de una o varias alumnas y/o egresadas.
+
+
+***
+
+4. Estadisticas.- En esta opcion se le brinda al usuario las los porcentajes totales y/o parciales de las alumnas, egresadas y empleadas por empresas, asi mismo podra realizar graficas o estadistica de los ultimos años, meses o semanas.
+
+![Estadisticas sketch](estadistica.png)
